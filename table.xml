@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="table.xsl"?>
+<supermarket>
+  <staff>
+    <id>01</id>
+    <Name>First</Name>
+    <Shift>Morning</Shift>
+    <position>Manager</position>
+
+    <id>01</id>
+    <Name>First</Name>
+    <Shift>Morning</Shift>
+    <position>Manager</position>
+
+    <id>02</id>
+    <Name>Sceond</Name>
+    <Shift>Morning</Shift>
+    <position>Cashier</position>
+
+    <id>03</id>
+    <Name>Third</Name>
+    <Shift>Evening</Shift>
+    <position>Cashier</position>
+
+    <id>04</id>
+    <Name>Fourth</Name>
+    <Shift>Morning</Shift>
+    <position>Inventory</position>
+
+    <id>05</id>
+    <Name>Fifth</Name>
+    <Shift>Evening</Shift>
+    <position>Inventory</position>
+
+    <id>06</id>
+    <Name>Sixth</Name>
+    <Shift>Evening</Shift>
+    <position>Cleaner</position>
+
+    <id>07</id>
+    <Name>Seventh</Name>
+    <Shift>Morning</Shift>
+    <position>Cleaner</position>
+
+    <id>08</id>
+    <Name>Eigth</Name>
+    <Shift>Evening</Shift>
+    <position>Security</position>
+
+    <id>09</id>
+    <Name>Ninth</Name>
+    <Shift>Morning</Shift>
+    <position>Security</position>
+  </staff>
+</supermarket>

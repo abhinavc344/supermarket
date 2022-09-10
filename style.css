@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://nationaltoday.com/wp-content/uploads/2021/06/Shopping-Cart-Day-1.jpg");
+
+
+}
+h1{
+  text-align: center;
+  font-size: 72px;
+  font-family: "Lucida Console", Courier, monospace;
+  text-shadow: 2px 2px #000000;
+
+}
+hr{
+  border-color:black;
+  border-width:18px;
+  border-style: none;
+  border-top-style: dotted;
+  width:27%;
+}
+.a{
+  background-color: #F1A661;
+  border-radius: 100%;
+}
+.a:hover{
+  background-color:#F7F6DC;
+}
+.b{
+  background-color: #F1A661;
+  border-radius: 100%;
+}
+.b:hover{
+  background-color:#F7F6DC;
+}
+.c{
+  background-color: #F1A661;
+  border-radius: 100%;
+}
+.c:hover{
+  background-color:#F7F6DC;
+}
+.d{
+  background-color: #F1A661;
+  border-radius: 100%;
+}
+.d:hover{
+  background-color:#F7F6DC;}
+td{
+  text-align: center;
+}
+table{padding:55px;}
